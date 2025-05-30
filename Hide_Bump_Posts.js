@@ -3,11 +3,11 @@
 // @namespace    https://leaked.wiki
 // @version      0.1
 // @description  Auto hide bump messages.
-// @author       https://cracked.io/Sango
-// @match        *://cracked.io/Thread-*
+// @author       https://cracked.sh/Sango
+// @match        *://cracked.sh/Thread-*
 // @icon         https://www.google.com/s2/favicons?domain=cracked.io
 // @grant        none
-// @require      https://static.cracked.io/jscripts/jquery.js
+// @require      https://static.cracked.sh/jscripts/jquery.js
 // ==/UserScript==
 
 (function() {
