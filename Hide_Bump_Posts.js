@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide Bumps
 // @namespace    https://leaked.tools
-// @version      0.1
+// @version      0.2
 // @description  Auto hide bump messages.
 // @author       https://cracked.sh/Sango
 // @match        *://cracked.sh/Thread-*
